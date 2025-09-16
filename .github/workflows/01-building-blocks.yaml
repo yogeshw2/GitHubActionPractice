@@ -12,4 +12,4 @@
         runs-on: ubuntu-latest
         steps:
             - name: Goodbye
-              run : echo "Goodbye!!"
+              run : echo "Goodbye!!!"
